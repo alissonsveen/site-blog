@@ -12,6 +12,7 @@ export const metadata: Metadata = {
     url: "https://site-blog-one.vercel.app/og-image.jpg",
     siteName: "Site.Set",
     locale: "pt_BR",
+    type: "website",
     images: [
       {
         url: "https://site-blog-one.vercel.app/og-image.jpg",
